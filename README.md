@@ -1,25 +1,64 @@
 # TIMESERIESANALYSIS
-# PROJECT TITLE
+# Project Title:
+Analysis and Prediction of Microsoft_Stock.csv which contains stocks and credits of IT form prediction the value of stocks in future by three category.("open","high","low").
 
-Analysis and prediction of "microsoft_stock".csv file which contains stocks and credits of financial IT firm.prediction of value of a stock in future bt three categories("OPEN","HIGH","LOW")
+# Problem Statement:
+This dataset provides a detailed analysis of Microsoft's stock performance from 1986 to 2023, including stock price, low and high prices, and trading volume. It showcases the company's journey in the stock market, revealing trends and fluctuations over time. The data covers key milestones and offers insights into market valuation. It also includes trading volume data to gauge investor activity. Researchers, investors, and analysts can use this dataset to study long-term trends, historical patterns, and technology industry dynamics. However, it's crucial to supplement this information with other financial data for informed decision-making. The dataset is current until 2023, offering up-to-date insights into Microsoft's stock performance.
 
-# PROBLEM STATEMENT
+# Abstract:
+Time Series Analysis A Time Series is a set of observations that are collected after regular intervals of time. If plotted, the Time series would always have one of its axes as time. Time Series Analysis in Python considers data collected over time might have some structure; hence it analyses Time Series data to extract its valuable characteristics.
 
-This comprehensive dataset provides a detailed analysis of Microsoft Corporation's stock performance from 1986 to 2023. It encompasses various important parameters, including stock price, low price, **high ** price, and trading volume, to provide a comprehensive overview of the company's market behavior throughout the years.
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/6d62132a-2987-4e1b-a9ae-74a9242ab454)
 
-The dataset begins in 1986, marking the early years of Microsoft's presence in the stock market. As one of the pioneering companies in the technology industry, Microsoft's stock performance has been closely followed by investors, analysts, and enthusiasts alike. The dataset captures the fluctuations and trends in the stock market, reflecting the company's journey from its inception to its position as a global tech giant.
 
-The stock price data offers a glimpse into the market valuation of Microsoft shares over time. By observing the daily closing prices, one can track the trajectory of the stock and identify key milestones in Microsoft's history. The dataset also includes the lowest and highest prices reached during each trading day, offering insight into the price range within which the stock fluctuated.
+project Approached Steps:
+Loading and Exploring Data.
+Visualizing Time Series
+Decomposing Time Series into Components
+Decomposition in Time series analysis.
+Project Methodology
+Trend:
+The Trend shows the variation of data with time or the frequency of data. Using a Trend, you can see how your data increases or decreases over time. The data can increase, decrease, or remain stable. Over time, population, stock market fluctuations, and production in a company are all examples of trends.
+Seasonality:
+Seasonality is used to find the variations which occur at regular intervals of time. Examples are festivals, conventions, seasons, etc. These variations usually happen around the same time period and affect the data in specific ways which you can predict.
+Irregularity:
+Fluctuations in the time series data do not correspond to the trend or seasonality. These variations in your time series are purely random and usually caused by unforeseeable circumstances, such as a sudden decrease in population because of a natural calamity.
+Cyclic:
+Oscillations in time series which last for more than a year are called cyclic. They may or may not be periodic.
+Stationary:
+A time series that has the same statistical properties over time is stationary. The properties remain the same anywhere in the series. Your data needs to be stationary to perform time-series analysis on it. A stationary series has a constant mean, variance, and covariance.
+Loading pdarima Librey
 
-Trading volume data provides an additional dimension for understanding Microsoft's stock market activity. It highlights the level of investor interest and participation in buying and selling Microsoft shares during each trading day. Tracking trading volume can help identify periods of increased market activity or significant news events that influenced investor sentiment.
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/2b28b905-1b0a-4e79-9eb3-4b76b92b34f4)
 
-The dataset covers a span of several decades, enabling users to analyze long-term trends, market cycles, and historical patterns that have shaped Microsoft's stock performance. It can be used by researchers, investors, and analysts to conduct quantitative and qualitative studies, perform technical analyses, and gain insights into the dynamics of the technology industry and the broader market.
 
-Please note that this dataset serves as a valuable historical resource and should be utilized alongside other relevant financial information and analysis to make informed decisions. The dataset captures Microsoft's stock performance up until 2023, ensuring that users have access to the latest available information.
+Approched by Visualization
 
-# DESCRIPTION
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/969a22d1-d7f4-43de-8c13-d15180845729)
 
-The dataset provides the history of daily price or prices of microsoft stock depending on USD.
+
+Final Result for "Open" Coloumn.
+
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/320072f0-6349-433f-9d56-2f2eea7e633c)
+
+
+
+Final Result for "Low" Coloumn.
+
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/7b65feca-b72a-4c5c-8f22-45ededfcc368)
+
+
+Final Result for "High" Coloumn.
+
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/8bc6eeb7-cc10-4684-bbce-c3e3a7886f4f)
+
+
+
+Final Result for "Volume" Coloumn.
+
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/21e2dd92-17df-4be4-9cfc-6bf76c516b06)
+
+
 
 # PROJECT APPROACH
 
@@ -28,6 +67,8 @@ The dataset provides the history of daily price or prices of microsoft stock dep
 # PROJECT METHODOLOGY
 
 ![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/59f31f1f-86f9-4bd0-afd0-a70ccdf8d7a2)
+
+
 
 # CONCLUSION
 
