@@ -27,36 +27,40 @@ Cyclic:
 Oscillations in time series which last for more than a year are called cyclic. They may or may not be periodic.
 Stationary:
 A time series that has the same statistical properties over time is stationary. The properties remain the same anywhere in the series. Your data needs to be stationary to perform time-series analysis on it. A stationary series has a constant mean, variance, and covariance.
+
 Loading pdarima Librey
 
-![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/2b28b905-1b0a-4e79-9eb3-4b76b92b34f4)
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/92c19000-6772-486e-ae4c-eb13b48b223c)
+
 
 
 Approched by Visualization
 
-![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/969a22d1-d7f4-43de-8c13-d15180845729)
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/58b5cd19-86d3-44ee-8afb-541e977e120c)
+
 
 
 Final Result for "Open" Coloumn.
 
-![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/320072f0-6349-433f-9d56-2f2eea7e633c)
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/bda7f977-70b9-4817-8ab7-58a68ec58fce)
 
 
 
 Final Result for "Low" Coloumn.
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/83996fe8-93ea-4928-ad5e-dc5f041ac4f5)
 
-![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/7b65feca-b72a-4c5c-8f22-45ededfcc368)
 
 
 Final Result for "High" Coloumn.
 
-![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/8bc6eeb7-cc10-4684-bbce-c3e3a7886f4f)
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/b32e4391-725a-472b-9455-bbc6ed424532)
+
 
 
 
 Final Result for "Volume" Coloumn.
 
-![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/21e2dd92-17df-4be4-9cfc-6bf76c516b06)
+![image](https://github.com/PrashanthReddy2002/TIMESERIESANALYSIS/assets/143176744/fc84fcc0-a18d-407e-9d54-1bdfdfa17cb0)
 
 
 
